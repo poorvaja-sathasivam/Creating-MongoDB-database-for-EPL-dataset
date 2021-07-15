@@ -1,4 +1,6 @@
 # Creating-MongoDB-database-for-EPL-dataset
+Assignment Grade : A+ 
+
 A dataset about English Premier League (EPL) matches has been provided, it is expected to create a MongoDB database for the dataset and write codes for the given queries. 
 1. Show all the EPL teams involved in the season. 
 2. How many matches were played on Mondays?
